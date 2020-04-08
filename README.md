@@ -1,2 +1,1 @@
-# Jupyter
-обучение
+stepik python
